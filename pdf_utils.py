@@ -15,7 +15,7 @@ import uuid
 #os.environ['OPENAI_API_KEY'] = getpass.getpass(openaikey)
 
 
-os.environ["OPENAI_API_KEY"]=openai_api_key
+os.environ["OPENAI_API_KEY"]=openai_api_key   #add api key in form of sting "api_key" instead fo openai_api_key
 llm=OpenAI()
     
 
