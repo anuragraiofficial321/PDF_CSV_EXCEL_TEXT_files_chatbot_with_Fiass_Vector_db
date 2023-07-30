@@ -5,3 +5,6 @@ pypdf
 panel
 faiss-cpu
 streamlit
+tabulate
+huggingface-hub
+black
