@@ -1,1 +1,1 @@
-openai_api_key="sk-adsfadfadfadf"
+openai_api_key="sk-a"
