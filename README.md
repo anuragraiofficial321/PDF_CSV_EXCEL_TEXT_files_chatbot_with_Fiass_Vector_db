@@ -5,7 +5,9 @@ pip install -r requirements.txt
 4. Use the command to run the Main.py file:
    streamlit run Main.py
 
-### I have developed a project that leverages the power of Langchain, LLM (Large Language Model), and Streamlit to create a dynamic Chat and File Processing Application. This versatile tool enables users to upload PDFs, text files, CSV files, or Excel files, engage in interactive conversations, and perform multiple operations on the uploaded data. To enhance the user experience, the application utilizes Fiass Vector Database for processing PDF and text files. Below is a detailed overview of the project's technologies used.
+### Multi-Format Chatbot and File Processing Application using Langchain, LLM, and Streamlit:
+
+I have developed a project that leverages the power of Langchain, LLM (Large Language Model), and Streamlit to create a dynamic Chat and File Processing Application. This versatile tool enables users to upload PDFs, text files, CSV files, or Excel files, engage in interactive conversations, and perform multiple operations on the uploaded data. To enhance the user experience, the application utilizes Fiass Vector Database for processing PDF and text files. Below is a detailed overview of the project's technologies used.
 
 ### Technologies Used:
 
